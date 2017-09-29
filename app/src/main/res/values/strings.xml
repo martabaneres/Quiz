@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question">Question</string>
+    <string name="check">Check</string>
+    <string name="correct">Very good!!</string>
+    <string name="incorrect">Incorrect!</string>
+
+    <string name="question_content">Which one of these guitarists is considered the inventor of Heavy Metal music?</string>
+    <array name="answers">
+        <item>Jimmy Page (Led Zeppelin)</item>
+        <item>Ritchie Blackmore (Deep Purple)</item>
+        <item>Tony Iommi (Black Sabbath)</item>
+        <item>Pete Townshend (The Who)</item>
+    </array>
+    <integer name="correct_answer">2</integer>
+</resources>
